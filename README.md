@@ -1,2 +1,4 @@
 # gametheory-faks
-Prvi semestar, Master
+## Prvi semestar, Master. Teorija Igraca. Profesor Milan Rapaic 
+
+### Instalacija:
