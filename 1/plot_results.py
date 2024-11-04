@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#PrisonerDilemma.py plot
 def plot_match_results(odluke_1, odluke_2, zbir_1, zbir_2, rounds):
 
     
